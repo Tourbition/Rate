@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="name1">Hello</string>
+    <string name="button_name">show</string>
+    <string name="input">input RMB</string>
+    <string name="start">Hello</string>
+    <string name="btn1">DOLLAR</string>
+    <string name="btn2">ENRO</string>
+    <string name="btn3">WON</string>
+    <string name="btn4">CONFIG</string>
+    <string name="btn5">SAVE</string>
+    <string name="btn6">ShowRate</string>
+    <string name="nodata">No Data</string>
+</resources>
